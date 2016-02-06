@@ -80,7 +80,7 @@ module.exports = {
     // require padding inside curly braces
     'object-curly-spacing': [2, 'always'],
     // allow just one var statement per function
-    'one-var': [2, 'never'],
+    'one-var': [2, 'always'],
     // require assignment operator shorthand where possible or prohibit it entirely
     'operator-assignment': 0,
     // enforce operators to be placed before or after line breaks
