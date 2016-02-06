@@ -1016,6 +1016,7 @@ Other Style Guides
     const superPower = new SuperPower();
     ```
 
+  EDIT: Allowed 
   - [13.2](#13.2) <a name='13.2'></a> Use one `const` declaration per variable. eslint: [`one-var`](http://eslint.org/docs/rules/one-var.html) jscs: [`disallowMultipleVarDecl`](http://jscs.info/rule/disallowMultipleVarDecl)
 
     > Why? It's easier to add new variable declarations this way, and you never have to worry about swapping out a `;` for a `,` or introducing punctuation-only diffs.
