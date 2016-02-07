@@ -1,6 +1,6 @@
 # eslint-config-justdojavascript
 
-[![npm version]()
+[![npm version](https://badge.fury.io/js/eslint-config-justdojavascript.svg)](https://badge.fury.io/js/eslint-config-justdojavascript)
 
 This package provides an .eslintrc as an extensible shared config.
 
