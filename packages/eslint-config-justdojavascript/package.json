@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-airbnb",
+  "name": "eslint-config-justdojavascript",
   "version": "5.0.0",
-  "description": "Airbnb's ESLint config, following our styleguide",
+  "description": "ESLint config adapted from airbnb",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript"
+    "url": "https://github.com/johnnycopperstone/just-do-javascript"
   },
   "keywords": [
     "eslint",
@@ -34,9 +34,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/johnnycopperstone/just-do-javascript/issues"
   },
-  "homepage": "https://github.com/airbnb/javascript",
+  "homepage": "https://github.com/johnnycopperstone/just-do-javascript",
   "devDependencies": {
     "babel-tape-runner": "1.2.0",
     "eslint": "^1.10.3",
