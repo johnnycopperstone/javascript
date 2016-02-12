@@ -2,14 +2,6 @@
 
 *A mostly reasonable approach to just doing JavaScript, adapted from [airbnb](https://github.com/airbnb/javascript)*
 
-Other Style Guides
- - [ES5](es5/)
- - [React](react/)
-<!---
- - [CSS & Sass](https://github.com/airbnb/css)
- - [Ruby](https://github.com/airbnb/ruby)
----->
-
 ## Table of Contents
 
   1. [Types](#types)
@@ -41,6 +33,7 @@ Other Style Guides
   1. [ECMAScript 6 Styles](#ecmascript-6-styles)
   1. [Testing](#testing)
   1. [Performance](#performance)
+  1. [Functional Programming](#functional-programming)
   1. [Resources](#resources)
   1. [In the Wild](#in-the-wild)
   1. [Translation](#translation)
@@ -2329,6 +2322,10 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+## Functional Programming
+
+  - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/SUMMARY.md)
+  - [Gentle Introduction to FP](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
 
 ## Resources
 
