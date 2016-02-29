@@ -5,6 +5,7 @@
 ## Table of Contents
 
   1. The Guide
+
       1. [Types](#types)
       1. [References](#references)
       1. [Objects](#objects)
@@ -32,6 +33,7 @@
       1. [jQuery](#jquery)
       1. [ECMAScript 5 Compatibility](#ecmascript-5-compatibility)
       1. [ECMAScript 6 Styles](#ecmascript-6-styles)
+      
   1. [Testing](#testing)
   1. [Performance](#performance)
   1. [Functional Programming](#functional-programming)
