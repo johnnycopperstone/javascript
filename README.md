@@ -37,7 +37,7 @@
   1. [Testing](#testing)
   1. [Performance](#performance)
   1. [Functional Programming](#functional-programming)
-  1. [Articles & Resources](#articles-&-resources)
+  1. [Articles & Resources](#articles-and-resources)
   1. [Books](#books)
   1. [Blogs](#blogs)
   1. [Contributors](#contributors)
@@ -2333,7 +2333,7 @@
   - [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM) - Rich Hickey
   - [Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4) - Robert Martin
 
-## Articles & Resources
+## Articles And Resources
 
   - [ECMAScript Proposals](https://github.com/tc39/ecma262)
   - [Standard ECMA-262](http://www.ecma-international.org/ecma-262/6.0/index.html)
