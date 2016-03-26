@@ -34,6 +34,7 @@
       1. [ECMAScript 5 Compatibility](#ecmascript-5-compatibility)
       1. [ECMAScript 6 Styles](#ecmascript-6-styles)
 
+
   1. [Testing](#testing)
   1. [Performance](#performance)
   1. [Functional Programming](#functional-programming)
